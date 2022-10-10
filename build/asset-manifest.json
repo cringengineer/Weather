@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02e68a5d.css",
+    "main.js": "/static/js/main.5af15a42.js",
+    "static/js/787.13d76ca7.chunk.js": "/static/js/787.13d76ca7.chunk.js",
+    "static/media/pressure-gauge.png": "/static/media/pressure-gauge.263650e3e7ddab747c5f.png",
+    "static/media/cloud.png": "/static/media/cloud.20fb0cca870aa7d99a11.png",
+    "static/media/humidity.png": "/static/media/humidity.5512d4d215ed9f36a663.png",
+    "static/media/thermometer.png": "/static/media/thermometer.b66904850476d9d0a4ca.png",
+    "static/media/cloudness.png": "/static/media/cloudness.15eb556cd941ec7fc2b4.png",
+    "static/media/Gear-0.6s-200px.svg": "/static/media/Gear-0.6s-200px.df5ae398d05183f41217184f009ab64d.svg",
+    "index.html": "/index.html",
+    "main.02e68a5d.css.map": "/static/css/main.02e68a5d.css.map",
+    "main.5af15a42.js.map": "/static/js/main.5af15a42.js.map",
+    "787.13d76ca7.chunk.js.map": "/static/js/787.13d76ca7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02e68a5d.css",
+    "static/js/main.5af15a42.js"
+  ]
+}
