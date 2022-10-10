@@ -1,0 +1,11 @@
+.footer__container {
+    background-color: #c37310cf;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    display: flex;
+}
+.git__link {
+    color: #181515eb;
+    text-decoration: none;
+}

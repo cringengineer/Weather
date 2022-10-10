@@ -1,0 +1,13 @@
+.App {
+  background-color: #0d0c0cd6;
+  min-height: 100vh;
+  z-index: 1;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Poppins;
+}

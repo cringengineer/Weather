@@ -1,0 +1,15 @@
+.header {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #c37310cf;
+    height: 65px;
+    font-family: 'Poppins';
+    color: #181515eb;
+}
+.weather {
+    margin-left: 30px;
+}
+.time {
+    margin-right: 30px;
+}
